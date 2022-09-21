@@ -1,4 +1,4 @@
-# Parallel and Cross-Browser Execution with Cucumber-TestNG on Apple.com
+# Parallel and Cross-Browser execution with Cucumber-TestNG on Apple.com
 
 The project has;
 
