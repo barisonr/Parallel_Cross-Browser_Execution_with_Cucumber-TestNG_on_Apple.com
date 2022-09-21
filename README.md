@@ -11,3 +11,6 @@ The project has;
 and has 2 Feature files:
 - Color_Customization.feature
 - WhichOneIsRightForYou.feature
+
+* Tests should be run via XML files or Feature files.
+* You can set the number of browsers that will run in parallel with the "data-provider-thread-count" setting in XML files.
