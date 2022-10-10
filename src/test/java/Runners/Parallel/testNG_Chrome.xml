@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Regression Suite" data-provider-thread-count="6">
+<suite name="Regression Suite" data-provider-thread-count="4">
     <test name="chrome">
         <parameter name="browser" value="chrome"/>
         <classes>
